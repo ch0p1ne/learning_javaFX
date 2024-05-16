@@ -12,6 +12,9 @@ import java.util.Objects;
 
 public class ControllerFeatures {
 
+
+    // Change de scene en fonction de l'url passer
+
     public void switchScene(ActionEvent event, String urlView) throws IOException {
         Stage stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
 
