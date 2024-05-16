@@ -12,6 +12,6 @@
             <Font name="Baskerville Old Face" size="22.0" />
          </font>
       </Label>
-      <Button fx:id="btn_switchScene_listview" layoutX="454.0" layoutY="294.0" mnemonicParsing="false" onAction="#switchScene" text="Page de la listview" />
+      <Button fx:id="btn_switchScene_listview" layoutX="454.0" layoutY="294.0" mnemonicParsing="false" onAction="#btn_switchScene_listview_onAction" text="Page de la listview" />
    </children>
 </AnchorPane>

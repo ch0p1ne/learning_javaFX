@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92d09d89-6e32-48bd-98d3-84d82fcef1dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ga/chopin/learning_javafx/ControllerFeatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ga/chopin/learning_javafx/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ga/chopin/learning_javafx/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/home.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/home.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715858933436</updated>
       <workItem from="1715858934491" duration="3390000" />
-      <workItem from="1715867949550" duration="4014000" />
+      <workItem from="1715867949550" duration="4728000" />
     </task>
     <servers />
   </component>

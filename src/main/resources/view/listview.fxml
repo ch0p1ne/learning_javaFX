@@ -14,6 +14,6 @@
             <Font size="22.0" />
          </font>
       </Label>
-      <Button fx:id="btn_goHome" layoutX="22.0" layoutY="294.0" mnemonicParsing="false" onAction="#goback" text="revenir a la page d'acceuil" />
+      <Button fx:id="btn_goHome" layoutX="22.0" layoutY="294.0" mnemonicParsing="false" onAction="#goBack" text="revenir a la page d'acceuil" />
    </children>
 </AnchorPane>
